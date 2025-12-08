@@ -11,11 +11,10 @@ The course covers Python fundamentals and spatial analysis. This repo shows how 
 - Weekly assignments in their respective folders.
 ## Assignment folders
 
-- [ASS 2.1 – Climate Stripes](ASS_2_1/)
-- [ASS 2.2– Optimising the Dutch Elcetricity grid with weather data](ASS_2_2/)
-- [ASS 2.3– wildfire Simulation](ASS_2_3/)
-- [ASS 2.3 – Flood Delineation](ASS_2_4/)
-
+- [ASS 2.1 – Climate Stripes](ASS%202.1/)
+- [ASS 2.2 – Optimising the Dutch Electricity Grid with Weather Data](ASS%202.2/)
+- [ASS 2.3 – Wildfire Simulation](ASS%202.3/)
+- [ASS 2.4 – Flood Delineation](ASS%202.4/)
 
 
 ---
