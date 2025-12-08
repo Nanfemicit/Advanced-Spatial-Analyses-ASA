@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data folders
+**/data/
+**/outputs/
+
+# Ignore large file types
+*.nc
+*.tif
+*.gpkg
+*.zip
