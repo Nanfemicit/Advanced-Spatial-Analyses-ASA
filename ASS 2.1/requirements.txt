@@ -1,0 +1,8 @@
+numpy
+matplotlib
+geopandas
+xarray
+rioxarray
+dask
+netCDF4
+h5netcdf
